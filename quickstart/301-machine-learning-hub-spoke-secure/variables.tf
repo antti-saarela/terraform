@@ -12,7 +12,7 @@ variable "environment" {
 variable "location" {
   type        = string
   description = "Location of the resources"
-  default     = "East US"
+  default     = "North Europe"
 }
 
 #Spoke Virtual Network
